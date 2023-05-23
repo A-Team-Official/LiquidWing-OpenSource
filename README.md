@@ -31,8 +31,6 @@ English: Prohibit the use of warehouse source code for magic & sales. If you bre
 
 Chinese: 禁止使用仓库内源码进行魔改 & 销售。如果你违反了协议，你的程序可能会得到破解。
 
-link:  https://github.com/A-Team-official/FakeTomk-Cracked
-
 ### Code Error
 
 English: We deleted part of the code, which caused some errors, you can choose to fix it
